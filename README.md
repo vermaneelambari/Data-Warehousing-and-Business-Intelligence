@@ -29,3 +29,9 @@
 > Music, Movies and Audio Books 
 > Games and Toys 
 > Home Appliances 
+
+* The company has 4 sales channels: 
+  * Retail
+  * Stores
+  * Catalog
+  * Online
