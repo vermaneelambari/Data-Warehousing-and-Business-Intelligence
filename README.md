@@ -22,3 +22,10 @@
 ### The Retail Company had the following products which were sold: 
 
 > Audio
+> TV and Video
+> Computers
+> Cameras and camcorders
+> Cell phones
+> Music, Movies and Audio Books 
+> Games and Toys 
+> Home Appliances 
