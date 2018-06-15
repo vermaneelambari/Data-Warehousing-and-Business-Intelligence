@@ -7,3 +7,14 @@
 *	Built custom dashboards to analyze sales and customer segmentation using Tableau, Qlik Sense and PowerBI.
 
 
+### This project involves a retail company that sells a variety of products to people and to business across variety of sales channels. 
+### The retail company: 
+* Creates a data warehouse (DW) from its various systems of records (SORs)
+* Creates BI applications that enable analysis of business performance 
+
+### The DW will store (Facts) in the following subject areas: 
+
+* Sales 
+* Inventory 
+* Sales Quota
+* Strategy Plans 
