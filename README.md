@@ -35,3 +35,12 @@
   * Stores
   * Catalog
   * Online
+  
+* Three top-level geographic regions: 
+  * North America 
+  * Europe
+  * Asia 
+  
+* Customers who purchased products are tracked in : 
+  * Catalog
+  * Online 
