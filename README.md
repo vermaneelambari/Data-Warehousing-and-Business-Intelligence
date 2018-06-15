@@ -18,3 +18,7 @@
 * Inventory 
 * Sales Quota
 * Strategy Plans 
+
+### The Retail Company had the following products which were sold: 
+
+> Audio
