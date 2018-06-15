@@ -44,3 +44,15 @@
 * Customers who purchased products are tracked in : 
   * Catalog
   * Online 
+  
+## Retail Company SOR  
+  
+ |Database   |Business Area  | dbms    |
+ |-----------|---------------|---------|
+ |Retail_SOR_NA   |North America |Microsoft SQL Server   |
+ |Retail_SOR_EU   |Europe  |MySQL    |
+ |Retail_SOR_AS   |Asia |PostgreSQL   |
+ |Retail_SOR_CAT  |Catalog |Oracle  |
+ |Flat Files |Cross-unit reference data |csv,text delimited  |
+
+
