@@ -55,7 +55,19 @@
  |Retail_SOR_CAT  |Catalog |Oracle  |
  |Flat Files |Cross-unit reference data |csv,text delimited  |
  
- 
+* DW has dimensional model to support: 
+  * Sales Analysis 
+  * Inventory Analysis 
+  * Sales quota & planning analysis 
+
+* DI: Loading data sources into DW 
+  * SOR: flat files, SQL Server, PostgreSQL, MySQL and Oracle 
+  * DW: MySQL
+  * ETL: Talend 
+  
+* BI: Dashboards, Reports & Visualizations 
+  * Inventory Analysis 
+  * Sales quota & planning analysis 
  
 
 
