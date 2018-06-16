@@ -69,5 +69,30 @@
   * Inventory Analysis 
   * Sales quota & planning analysis 
  
+## Deliverables - Analysis 
 
+1. Data Subjects 
+    * Online Sales (FactOnlineSales) 
+    * Sales (FactStoreSales) 
+    * Inventory (FactInventory) 
+    * Sales Quota 
+    * Strategy Plan 
+
+2. Types of Analysis: 
+   * Trending
+   * Ranking 
+   * Comparison 
+   * Period over Period 
+   * Geo Map 
+   * Contribution 
+   
+3. Measures: 
+  * Sales in $, Profit, Margin, Average order size,... 
+  
+4. Dimensions: 
+  * Customers: Company & Person, demographics 
+  * Product: Product Hierarchy (Category, Subcategory, Product),Brand. 
+  * Store: Type, Other attributes 
+  * Dates 
+  * Geography 
 
